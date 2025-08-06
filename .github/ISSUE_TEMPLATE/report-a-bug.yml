@@ -7,7 +7,7 @@ body:
       value: |
         ## Before reporting a bug
 
-        - This form is for reporting a bug certainly confirmed. If you cannot confident that it is a bug, please ask in [Marp discussion forum](https://github.com/marp-team/marp/discussions) first. _See also: [Why you must not ask questions on Github issues](https://medium.com/@methane/why-you-must-not-ask-questions-on-github-issues-51d741d83fde)_
+        - This form is for reporting a bug certainly confirmed. If you cannot confident that it is a bug, please ask in [Marp discussion forum](https://github.com/marp-team/marp/discussions) first. _See also: [Why you must not ask questions on GitHub issues](https://medium.com/@methane/why-you-must-not-ask-questions-on-github-issues-51d741d83fde)_
         * Is this repository suited for reporting your issue? We ask for your cooperation to report the issue to corresponding repository based on the cause of bug. _See also: [The architecture of Marp ecosystem](https://github.com/marp-team/.github/blob/master/CONTRIBUTING.md#architecture)_
 
         > Marp team may [transfer the reported issue](https://help.github.com/en/articles/transferring-an-issue-to-another-repository) into the proper repository. If the suited repository is not clear, you also can report to [Marp discussion forum](https://github.com/marp-team/marp/discussions).
