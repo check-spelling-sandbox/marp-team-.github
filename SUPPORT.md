@@ -38,6 +38,6 @@ Or you can use [StackOverflow] if you want to ask something.
 
 Please keep in mind that _GitHub issue tracker is not a support forum_.
 
-In general, GitHub issues is designed for tracking problems occured in project. A personal question will prevent Marp team focusing to resolve core issues. Moreover, users whose same problem will become difficult to find out closed issue.
+In general, GitHub issues is designed for tracking problems occurred in project. A personal question will prevent Marp team focusing to resolve core issues. Moreover, users whose same problem will become difficult to find out closed issue.
 
 You should use [GitHub Discussions] instead. If posted questions/discussions into issues in each repositories of marp-team, it would be tagged as [`question` label](https://github.com/search?q=org%3Amarp-team+label%3Aquestion&type=Issues) and even closed in early.
