@@ -4,7 +4,7 @@ Thank you for taking the time to read how to contribute to our project! This is 
 
 You can start contributing our project in several ways: improve docs, report bug, request feature, writing code, and so on.
 
-Depending on the project you want to contribute, it might have additional guidelines you should follow at that repository. Please also check the guideline per repository.
+Depending on the project you want to contribute, it might have additional guidelines you should follow for that repository.
 
 > :information_source: Would you the first time to contribute OSS? [Open Source Guides](https://opensource.guide/how-to-contribute/) might help you.
 
