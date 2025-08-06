@@ -14,7 +14,7 @@ We follow [Contributor Covenant Code of Conduct][code-of-conduct] in the all of 
 
 ## Our position
 
-For simplicity and long-maintainabillity of the ecosystem, Marp team is focusing just to the experience of slide authoring.
+For simplicity and long-maintainability of the ecosystem, Marp team is focusing just to the experience of slide authoring.
 
 Team members should avoid to bring [scope creep] and bloated project scope in the ecosystem. If not, the ecosystem would end up burning out, just like a [former Marp app](https://github.com/yhatt/marp).
 
